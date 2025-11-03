@@ -1,1 +1,2 @@
 memasukan bilangan dan sistem akan menghitung bilangan itu ganjil atau genap
+<img scr="https://www.google.com/imgres?q=soal%20volume%20tabung&imgurl=https%3A%2F%2Fcdn.grid.id%2Fcrop%2F0x0%3A0x0%2F700x0%2Fphoto%2F2021%2F09%2F28%2Fvolume-tabungjpg-20210928094452.jpg&imgrefurl=https%3A%2F%2Fbobo.grid.id%2Fread%2F082913540%2Fcari-jawaban-materi-kelas-6-sd-matematika-soal-soal-volume-bangun-ruang-tabung%3Fpage%3Dall&docid=pkT5XEeRUYdIDM&tbnid=DkUa9cBUXO-JCM&vet=12ahUKEwjUyofO7NSQAxUHxzgGHdbVCs4QM3oECBkQAA..i&w=700&h=479&hcb=2&ved=2ahUKEwjUyofO7NSQAxUHxzgGHdbVCs4QM3oECBkQAA">
